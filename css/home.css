@@ -1,0 +1,32 @@
+#banner{
+    background-image: url(../images/BANNER.png);
+    height: 600px;
+    background-position: right;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#banner h1{
+    color: var(--vermelho);
+ 
+}
+#banner > div{
+    width: 85%;
+    margin: auto;
+    top: 250px;
+    position: relative;
+}
+#citacao{
+    text-align: center;
+    color: var(--vermelho);
+    margin: 70px 0;
+}
+#citacao p {
+    font-size: 1.2rem;
+    font-family: "Cinzel Decorative", sans-serif;
+}
+#introducaolenda p{
+    margin-bottom: 10px;
+}
+#introducaolenda{
+    margin-bottom: 100px;
+}
