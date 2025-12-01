@@ -5,10 +5,7 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-#banner h1{
-    color: var(--vermelho);
  
-}
 #banner > div{
     width: 85%;
     margin: auto;
