@@ -1,0 +1,23 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+.card div{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 60px;
+}
+.card div p {
+    margin-bottom: 25px;
+}
+.card img{
+    width: 700px;
+    border-radius: 40px;
+}
+.reverso{
+    flex-direction: row-reverse;
+}
