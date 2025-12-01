@@ -1,0 +1,68 @@
+/* TITULO */ /* font-family: "Cinzel Decorative", serif; */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+
+/* Textos corridos */ /* font-family: "Merriweather", serif; */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Interface / botões / fórum */ /* font-family: "Montserrat", sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+}
+
+:root {
+    --vermelho: #710014;
+    --Dourado: #838f6f;
+    --Branco: #f2f1ed;
+    --Preto: #161616;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    background-color: var(--vermelho);
+    display: flex;
+    padding: 7px;
+}
+#cabeçalho {
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
+    margin: auto;
+}
+
+#ladoA {
+    display: flex;
+    gap: 180px;
+}
+
+header div nav {
+    display: flex;
+    gap: 40px;
+}
+
+h1 {
+   font-family: "Cinzel Decorative", serif;
+   color: var(--Branco);
+   font-size: 40px;
+   font-weight: normal;
+
+}
+
+#logo {
+    width: 150px;
+}
+
+header nav > a {
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    color: var(--Branco);
+}
