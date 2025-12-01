@@ -1,11 +1,15 @@
 #banner{
     background-image: url(../images/BANNER.png);
-    height: 500px;
+    height: 600px;
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
+#banner h1{
+    color: var(--vermelho);
  
+}
 #banner > div{
     width: 85%;
     margin: auto;
