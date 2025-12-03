@@ -31,7 +31,7 @@
 header {
     background-color: var(--vermelho);
     display: flex;
-    padding: 7px;
+    padding:  0 7px;
 }
 #cabeçalho {
     display: flex ;

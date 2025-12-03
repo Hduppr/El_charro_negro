@@ -10,7 +10,7 @@
 
 .postit{
     background-image: url(../images/post\ it2.png);
-    height: 500px;
+    height: 220px;
     background-repeat: no-repeat;
     background-size: contain;
     width: 200px;
@@ -36,6 +36,7 @@
     border-radius: 8px;
     margin: auto;
     padding: 95px;
+    
     
 }
 .conteudopopup p {
