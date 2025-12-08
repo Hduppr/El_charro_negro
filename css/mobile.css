@@ -137,6 +137,36 @@
         width: 42%; 
     }
 }
+@media screen and (max-width: 1367px ) and (min-width:1200px){
+    .conteudopopup{
+        padding:  100px 20px;
+        
+    }
+
+    .conteudopopup h1 {
+        font-size: 1.3rem;
+        
+    }
+        .conteudopopup p {
+        font-size: 0.8rem;
+        
+    }
+}
+@media screen and (max-width: 1200px ) and (min-width:1000px){
+    .conteudopopup{
+        padding:  100px 20px;
+        width:  50%;
+    }
+
+    .conteudopopup h1 {
+        font-size: 1.3rem;
+        
+    }
+        .conteudopopup p {
+        font-size: 0.8rem;
+        
+    }
+}
 
 
 
