@@ -92,9 +92,12 @@
      #test1 {
         margin-left: 25px;
     }
+    #test2 {
+        margin-left: 25px;
+    }
 
     .Testemunho {
-        width: 90%;
+        width: 100%;
 
     }
 
