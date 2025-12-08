@@ -101,3 +101,47 @@
 
 
 }
+
+@media screen and (max-width: 1400px ) and (min-width:1000px){
+    
+    #ladoA {
+        gap: 100px;
+    }
+    .postit{
+        width: 150px;
+        gap:12px;
+    }
+    .postit img{
+        width: 80px;
+    }
+    .postit h1{
+    font-size: 0.7rem;
+    margin-top: 25px;
+}
+}
+
+@media screen and (min-width:1921px){
+    .conteudopopup{
+        padding:  120px 220px;
+    }
+}
+
+@media screen and (max-width: 1800px ) and (min-width:1450px){
+    .conteudopopup{
+        padding:  85px 20px;
+    }
+}
+@media screen and (max-width: 1450px ) and (min-width:1367px){
+    .conteudopopup{
+        padding:  85px 20px;
+        width: 42%; 
+    }
+}
+
+
+
+
+
+
+
+
