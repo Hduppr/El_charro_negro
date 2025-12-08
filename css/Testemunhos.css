@@ -1,0 +1,21 @@
+#test1 {
+    display: flex;
+    gap: 10px;
+    margin-left: 75px;
+    align-items: baseline;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+.Testemunho {
+    width: 68%;
+    margin: auto;
+    padding: 30px;
+
+}
+
+.Testemunho p {
+    margin: 10px 0 10px 0;
+}
