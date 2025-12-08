@@ -12,10 +12,14 @@ h2 {
 .Testemunho {
     width: 68%;
     margin: auto;
-    padding: 30px;
+    padding: 40px;
 
 }
 
 .Testemunho p {
-    margin: 10px 0 10px 0;
+    margin: 12px 0 12px 0;
+}
+
+#test2 {
+    margin-left: 75px;
 }
