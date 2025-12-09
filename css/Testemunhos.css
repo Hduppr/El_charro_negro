@@ -1,12 +1,8 @@
-#test1 {
-    display: flex;
-    gap: 10px;
-    margin-left: 75px;
-    align-items: baseline;
-}
+
 
 h2 {
     font-size: 1.5rem;
+    text-align: center;
 }
 
 .Testemunho {
@@ -22,4 +18,5 @@ h2 {
 
 #test2 {
     margin-left: 75px;
+    text-align: center;
 }
